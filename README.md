@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile.jpg" alt="Foto de perfil de Fernando Belter Oliveira" width="150" style="border-radius: 50%;" />
+  <img src="assets/profile.png" alt="Foto de perfil de Fernando Belter Oliveira" width="150" style="border-radius: 50%;" />
 
   <h1>Fernando Belter Oliveira</h1>
   <h3>Software Engineering Student | AI | Machine Learning | Computer Vision | Backend Development</h3>
