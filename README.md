@@ -129,7 +129,7 @@ Gosto de transformar ideias complexas em sistemas úteis, bem estruturados e pre
 <div align="center">
   <p>Conecte-se comigo pelas redes abaixo:</p>
 
-  <a href="https://www.instagram.com/_bel_ter_/" target="_blank">
+  <a href="https://www.instagram.com/fernando.belter/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://wa.me/5542998125483" target="_blank">
